@@ -41,7 +41,7 @@ accompanied by a minor version bump.
 This crate provides a `cargo lock` subcommand which can be installed with:
 
 ```console
-cargo install cargo-lock --features=cli
+$ cargo install cargo-lock --features=cli
 ```
 
 It supports the following subcommands:
